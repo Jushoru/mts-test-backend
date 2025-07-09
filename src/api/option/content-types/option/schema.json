@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "options",
+  "info": {
+    "singularName": "option",
+    "pluralName": "options",
+    "displayName": "Option"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "value": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

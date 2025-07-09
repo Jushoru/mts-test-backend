@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "forms",
+  "info": {
+    "singularName": "form",
+    "pluralName": "forms",
+    "displayName": "Form"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "json"
+    }
+  }
+}
